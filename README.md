@@ -5,7 +5,7 @@ Created Login Page Using Only Tailwind CSS
 
 ## Screenshots
 
-![Screenshot_20230820_164846](https://github.com/AbuZaid55/Image_Gallery/assets/115403447/9822cca6-9479-466c-9fc0-46fe790ddf60)
+![Screenshot_20230824_111232](https://github.com/AbuZaid55/TailwindCSS_Login_Page/assets/115403447/e8a48b0b-968c-490c-b5c0-296502345613)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-zaid-83a7b023b)
